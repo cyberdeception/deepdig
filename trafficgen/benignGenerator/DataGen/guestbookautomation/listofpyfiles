@@ -1,0 +1,11 @@
+#!/bin/bash
+path=/home/bigdata/Downloads/benign
+./general.sh autoBrowse.py
+
+mkdir $path/netbenign3
+scp -i ./server.pem softseclab@10.176.147.83:stream*.cap $path/netbenign3
+mkdir $path/sysbenign3
+scp -i ./server.pem softseclab@10.176.147.83:stream*.scap $path/sysbenign3
+sleep 2
+ssh -i ./server.pem softseclab@10.176.147.83 rm stream*
+sleep 2

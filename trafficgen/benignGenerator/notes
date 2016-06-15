@@ -1,0 +1,130 @@
+for benign
+
+cd /home/bigdata/Downloads/benignGenerator/DataGen/wordpressautonew
+
+./listofpyfiles
+
+in vi ./general.sh
+
+cd /home/bigdata/Downloads/benignGenerator/DataGen/guestbookautomation
+
+./listofpyfiles
+
+vi ./general.sh
+
+
+
+
+==========================================
+ATTACk
+Server attack machine
+
+ssh softseclab@10.176.147.83
+password: adeola
+
+client attack machine
+10.176.148.53
+
+root
+dml32014
+
+
+
+cd ~/newcont3
+
+screen 
+
+./run.sh
+
+screen -r
+killall -9 ssh
+
+normal attack 1-12
+
+APT 20-26
+ python rename_scap.py 
+ python rename_pcap.py 
+
+
+ 1030  vi rename_scap.py 
+ 1031  vi rename_pcap.py 
+ 1032  ls
+
+ 1035  ls netattackerdecoy1
+ 1036  vi rename_pcap.py 
+ 1037  vi rename_scap.py 
+
+in the same folder
+
+run 
+
+./runNoHoneyPatch
+
+
+
+
+
+On the honeypatch server
+ssh softseclab@10.176.147.83
+password: adeola
+
+
+
+common commands
+
+sudo lxc-ls -f
+
+Stop redherring 
+sudo -i forever stop redherring
+
+start
+sudo -i  /etc/init.d/proxy_startup.sh 
+ show log
+tail -f /usr/local/proxy/out.log
+
+ ls /var/lib/libhp/.mon/
+
+Test honeypatch is up
+
+ python heartbleed.py localhost
+
+
+Changing system to honeypatched or unpatched
+
+for honeypatched
+cd mytargetbackup/
+sudo cp -r local/*  /var/lib/lxc/target/rootfs/usr/local/
+sudo cp -r opt/*  /var/lib/lxc/target/rootfs/opt/
+
+sudo cp -r local/*  /var/lib/lxc/template/rootfs/usr/local/
+sudo cp -r opt/*  /var/lib/lxc/template/rootfs/opt/
+
+
+ssh ubuntu@10.0.3.2
+password ubuntu
+ sudo /usr/local/apache/bin/apachectl start
+ sudo /usr/local/apache-CVE-2011-3368/bin/apachectl start
+
+
+for unpatched
+
+cd myunpatchedbackup/
+
+sudo cp -r local/*  /var/lib/lxc/target/rootfs/usr/local/
+sudo cp -r opt/*  /var/lib/lxc/target/rootfs/opt/
+
+sudo cp -r local/*  /var/lib/lxc/template/rootfs/usr/local/
+sudo cp -r opt/*  /var/lib/lxc/template/rootfs/opt/
+
+
+ssh ubuntu@10.0.3.2
+password ubuntu
+ sudo /usr/local/apache/bin/apachectl start
+ sudo /usr/local/apache-CVE-2011-3368/bin/apachectl start
+
+
+
+
+
+
+
