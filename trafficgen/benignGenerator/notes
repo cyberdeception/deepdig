@@ -107,7 +107,13 @@ password ubuntu
 
 
 for unpatched
+# first, remove files in the decoys
+from 10.176.148.53
+cd /root/newcont3
+ssh -i ./server.pem softseclab@10.176.147.83 rm stream*
+ssh -i ./server.pem softseclab@10.176.147.83 sudo rm -f /var/lib/libhp/.mon/*CVE*
 
+back to 10.176.147.83
 cd myunpatchedbackup/
 
 sudo cp -r local/*  /var/lib/lxc/target/rootfs/usr/local/
