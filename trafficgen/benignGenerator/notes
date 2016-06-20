@@ -137,6 +137,20 @@ password ubuntu
  sudo /usr/local/apache-CVE-2011-3368/bin/apachectl start
 
 
+Please when you convert the server to unpatched.
+On 10.176.147.83 run this iptable to forward data to the unptached decoys.
+
+ 
+
+sudo iptables -t nat -A PREROUTING -p tcp -i eth0 --dport 443 -j DNAT \
+  --to-destination 10.0.3.2:443
+
+On 10.176.148.53, please kill all the nc programs running before running the experiments.
+ 
+
+use killall -9 nc.
+
+
 
 
 
