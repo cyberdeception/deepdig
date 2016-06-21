@@ -92,6 +92,7 @@ Test honeypatch is up
 Changing system to honeypatched or unpatched
 
 for honeypatched
+-------------------------------------------------
 # first, remove files in the decoys
 from 10.176.148.53
 cd /root/newcont3
@@ -99,6 +100,17 @@ ssh -i ./server.pem softseclab@10.176.147.83 rm stream*
 ssh -i ./server.pem softseclab@10.176.147.83 sudo rm -f /var/lib/libhp/.mon/*CVE*
 
 back to 10.176.147.83
+
+To configure iptables
+to list
+sudo iptables -t nat -L -n -v
+
+to list by chain and number
+sudo iptables -t nat --line-numbers -L
+
+to del by chain and number
+sudo iptables -t nat -D PREROUTING 6
+
 
 cd mytargetbackup/
 sudo cp -r local/*  /var/lib/lxc/target/rootfs/usr/local/
@@ -115,6 +127,7 @@ password ubuntu
 
 
 for unpatched
+------------------------------------------------------------------
 # first, remove files in the decoys
 from 10.176.148.53
 cd /root/newcont3
@@ -140,13 +153,12 @@ password ubuntu
 Please when you convert the server to unpatched.
 On 10.176.147.83 run this iptable to forward data to the unptached decoys.
 
- 
-
 sudo iptables -t nat -A PREROUTING -p tcp -i eth0 --dport 443 -j DNAT \
   --to-destination 10.0.3.2:443
 
+
+
 On 10.176.148.53, please kill all the nc programs running before running the experiments.
- 
 
 use killall -9 nc.
 
