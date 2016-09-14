@@ -11,7 +11,7 @@ class BaseWordPressData:
 
 
     def logout(self):
-        self.browser.get("https://54.218.47.176/wordpress/wp-login.php?action=logout")
+        self.browser.get("https://104.154.117.255/wordpress/wp-login.php?action=logout")
 
 
     def closeBrowser(self):

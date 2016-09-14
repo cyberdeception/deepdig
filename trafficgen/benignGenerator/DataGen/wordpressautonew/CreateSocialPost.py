@@ -15,7 +15,7 @@ class CreateSocialPost(BaseWordPressData):
     def sendPost(self):
         title = self.dataDict['post']
        
-        #http://54.218.47.176/wordpress/members/admin/
+        #http://104.154.117.255/wordpress/members/admin/
         url = self.dataDict['url']
         app = self.dataDict['app']
         register_page = "https://" + url + "/" + app + "/members/admin/"

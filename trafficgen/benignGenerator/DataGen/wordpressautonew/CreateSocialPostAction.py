@@ -60,7 +60,7 @@ def getUserData(filename):
 
 browser = webdriver.Firefox()
 
-loginData = {"username":"admin","password":"pass123","url":"54.218.47.176","app":"wordpress"}
+loginData = {"username":"admin","password":"pass123","url":"104.154.117.255","app":"wordpress"}
 test_login = LoginWordPressData("login",loginData,browser)
 
 test_login.login()
@@ -70,7 +70,7 @@ fakedata = "./fakeData.csv"
 
 for i in range(1,2):
 	mytitle = getTitle(txtfilename,100)
-	postData ={"url":"54.218.47.176","app":"wordpress","post":mytitle}
+	postData ={"url":"104.154.117.255","app":"wordpress","post":mytitle}
 	createPost = CreateSocialPost("createsocialpost",postData,browser)
 	createPost.sendPost()
 	time.sleep(2)

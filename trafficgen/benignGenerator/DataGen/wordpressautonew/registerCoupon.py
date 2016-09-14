@@ -60,7 +60,7 @@ def getUserData(filename):
 
 browser = webdriver.Firefox()
 
-loginData = {"username":"admin","password":"pass123","url":"54.218.47.176","app":"wordpress"}
+loginData = {"username":"admin","password":"pass123","url":"104.154.117.255","app":"wordpress"}
 test_login = LoginWordPressData("login",loginData,browser)
 
 test_login.login()
@@ -70,10 +70,10 @@ fakedata = "./fakeproducts.csv"
 for i in range(1,2):
     couponCode = random.randint(10000, 100000)
     print couponCode
-    couponData ={"url":"54.218.47.176","app":"wordpress","couponcode":couponCode}
+    couponData ={"url":"104.154.117.255","app":"wordpress","couponcode":couponCode}
     regCoupon = RegisterCouponWPressData("createcoupon",couponData,browser)
     regCoupon.registercoupon()
-    browser.get("https://54.218.47.176/wordpress/wp-admin/admin.php?page=wc-reports")
+    browser.get("https://104.154.117.255/wordpress/wp-admin/admin.php?page=wc-reports")
     time.sleep(4)
 
 

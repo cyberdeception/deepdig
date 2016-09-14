@@ -60,7 +60,7 @@ def getUserData(filename):
 
 browser = webdriver.Firefox()
 
-loginData = {"username":"admin","password":"pass123","url":"54.218.47.176","app":"wordpress"}
+loginData = {"username":"admin","password":"pass123","url":"104.154.117.255","app":"wordpress"}
 test_login = LoginWordPressData("login",loginData,browser)
 
 test_login.login()
@@ -70,7 +70,7 @@ fakedata = "./fakeproducts.csv"
 for i in range(1,2):
     productData = getUserData(fakedata)
     print productData
-    productData ={"url":"54.218.47.176","app":"wordpress","prodname":productData[0],"prodprice":productData[1]}
+    productData ={"url":"104.154.117.255","app":"wordpress","prodname":productData[0],"prodprice":productData[1]}
     regProd = RegisterProductWPressData("regprod",productData,browser)
     regProd.registerproduct()
     time.sleep(4)

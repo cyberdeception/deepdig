@@ -66,7 +66,7 @@ def getUserData(filename):
 
 browser = webdriver.Firefox()
 
-loginData = {"username":"admin","password":"pass123","url":"54.218.47.176","app":"wordpress"}
+loginData = {"username":"admin","password":"pass123","url":"104.154.117.255","app":"wordpress"}
 test_login = LoginWordPressData("login",loginData,browser)
 
 test_login.login()
@@ -76,18 +76,18 @@ fakedata = "./fakeproducts.csv"
 
 for k in range(1,2):
      productData = getUserData(fakedata)
-     url = "54.218.47.176"
+     url = "104.154.117.255"
      app = "wordpress"
-     social_page = "https://54.218.47.176/wordpress/members/admin/activity/"
+     social_page = "https://104.154.117.255/wordpress/members/admin/activity/"
      browser.get( social_page )
      time.sleep(2)
-     social_page = "https://54.218.47.176/wordpress/members/admin/profile/"
+     social_page = "https://104.154.117.255/wordpress/members/admin/profile/"
      browser.get( social_page )
      time.sleep(2)
-     social_page = "https://54.218.47.176/wordpress/members/admin/messages/"
+     social_page = "https://104.154.117.255/wordpress/members/admin/messages/"
      browser.get( social_page )
      time.sleep(2)
-     social_page = "https://54.218.47.176/wordpress/members/admin/notifications/"
+     social_page = "https://104.154.117.255/wordpress/members/admin/notifications/"
      browser.get( social_page )
      time.sleep(2)    
             

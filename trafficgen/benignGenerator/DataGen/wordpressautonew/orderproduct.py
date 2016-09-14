@@ -66,7 +66,7 @@ def getUserData(filename):
 
 browser = webdriver.Firefox()
 
-loginData = {"username":"admin","password":"pass123","url":"54.218.47.176","app":"wordpress"}
+loginData = {"username":"admin","password":"pass123","url":"104.154.117.255","app":"wordpress"}
 test_login = LoginWordPressData("login",loginData,browser)
 
 test_login.login()
@@ -77,7 +77,7 @@ fakedata = "./fakeproducts.csv"
 for k in range(1,2):
 	for i in range(1,3):
 	    productData = getUserData(fakedata)
-	    url = "54.218.47.176"
+	    url = "104.154.117.255"
 	    app = "wordpress"
 	    product_page = "https://" + url + "/" + app + "/product/" + productData[0].lower()
             #product_page = "https://" + url + "/" + app + "/product/" +"icecream-vanilla"
@@ -87,8 +87,8 @@ for k in range(1,2):
 	         submit = browser.find_element_by_class_name('single_add_to_cart_button')
 	         submit.click()
 	         time.sleep(2)
-	         browser.get("https://54.218.47.176/wordpress/cart/")
-	         browser.get("https://54.218.47.176/wordpress/checkout/")
+	         browser.get("https://104.154.117.255/wordpress/cart/")
+	         browser.get("https://104.154.117.255/wordpress/checkout/")
 	         submit2 = WebDriverWait(browser, 4).until(EC.presence_of_element_located((By.ID, "place_order")))
                  print "Page is ready!"
 		 time.sleep(5)
