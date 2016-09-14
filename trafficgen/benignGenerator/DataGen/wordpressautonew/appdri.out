@@ -1,4 +1,12 @@
-49814
-Lemuel,Pease,Hithorable,iecheeCh6,LemuelJPease@fleckens.hu
-
-['Lemuel', 'Pease', 'Hithorable', 'iecheeCh6', 'LemuelJPease@fleckens.hu']
+Traceback (most recent call last):
+  File "autoPost.py", line 61, in <module>
+    browser = webdriver.Firefox()
+  File "/usr/local/lib/python2.7/dist-packages/selenium/webdriver/firefox/webdriver.py", line 80, in __init__
+    self.binary, timeout)
+  File "/usr/local/lib/python2.7/dist-packages/selenium/webdriver/firefox/extension_connection.py", line 52, in __init__
+    self.binary.launch_browser(self.profile, timeout=timeout)
+  File "/usr/local/lib/python2.7/dist-packages/selenium/webdriver/firefox/firefox_binary.py", line 68, in launch_browser
+    self._wait_until_connectable(timeout=timeout)
+  File "/usr/local/lib/python2.7/dist-packages/selenium/webdriver/firefox/firefox_binary.py", line 110, in _wait_until_connectable
+    time.sleep(1)
+KeyboardInterrupt

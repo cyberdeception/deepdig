@@ -30,31 +30,3 @@ Initializing built-in extension GLX
 [dix] Could not init font path element /usr/share/fonts/X11/75dpi/:unscaled, removing from list!
 [dix] Could not init font path element /usr/share/fonts/X11/100dpi, removing from list!
 [dix] Could not init font path element /usr/share/fonts/X11/75dpi, removing from list!
-7 XSELINUXs still allocated at reset
-SCREEN: 0 objects of 256 bytes = 0 total bytes 0 private allocs
-DEVICE: 0 objects of 96 bytes = 0 total bytes 0 private allocs
-CLIENT: 0 objects of 136 bytes = 0 total bytes 0 private allocs
-WINDOW: 0 objects of 32 bytes = 0 total bytes 0 private allocs
-PIXMAP: 2 objects of 16 bytes = 32 total bytes 0 private allocs
-GC: 4 objects of 16 bytes = 64 total bytes 0 private allocs
-CURSOR: 1 objects of 8 bytes = 8 total bytes 0 private allocs
-TOTAL: 7 objects, 104 bytes, 0 allocs
-2 PIXMAPs still allocated at reset
-PIXMAP: 2 objects of 16 bytes = 32 total bytes 0 private allocs
-GC: 4 objects of 16 bytes = 64 total bytes 0 private allocs
-CURSOR: 1 objects of 8 bytes = 8 total bytes 0 private allocs
-TOTAL: 7 objects, 104 bytes, 0 allocs
-4 GCs still allocated at reset
-GC: 4 objects of 16 bytes = 64 total bytes 0 private allocs
-CURSOR: 1 objects of 8 bytes = 8 total bytes 0 private allocs
-TOTAL: 5 objects, 72 bytes, 0 allocs
-1 CURSORs still allocated at reset
-CURSOR: 1 objects of 8 bytes = 8 total bytes 0 private allocs
-TOTAL: 1 objects, 8 bytes, 0 allocs
-1 CURSOR_BITSs still allocated at reset
-TOTAL: 0 objects, 0 bytes, 0 allocs
-[dix] Could not init font path element /usr/share/fonts/X11/cyrillic, removing from list!
-[dix] Could not init font path element /usr/share/fonts/X11/100dpi/:unscaled, removing from list!
-[dix] Could not init font path element /usr/share/fonts/X11/75dpi/:unscaled, removing from list!
-[dix] Could not init font path element /usr/share/fonts/X11/100dpi, removing from list!
-[dix] Could not init font path element /usr/share/fonts/X11/75dpi, removing from list!

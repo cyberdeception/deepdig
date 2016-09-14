@@ -12,70 +12,69 @@ ssh -i ./debo.pem redherring@104.154.117.255 rm stream*
 sleep 2
 
 
-#./general.sh registerCoupon.py
-#mkdir $path/netbenign5
-#scp -i ./debo.pem redherring@104.154.117.255:stream*.cap $path/netbenign5
-#mkdir $path/sysbenign5
-#scp -i ./debo.pem redherring@104.154.117.255:stream*.scap $path/sysbenign5
-#sleep 2
-#ssh -i ./debo.pem redherring@104.154.117.255 rm stream*
-#sleep 2
+./general.sh registerCoupon.py
+mkdir $path/netbenign5
+scp -i ./debo.pem redherring@104.154.117.255:stream*.cap $path/netbenign5
+mkdir $path/sysbenign5
+scp -i ./debo.pem redherring@104.154.117.255:stream*.scap $path/sysbenign5
+sleep 2
+ssh -i ./debo.pem redherring@104.154.117.255 rm stream*
+sleep 2
 
-#./general.sh registerProducts.py
-#mkdir $path/netbenign6
-#mkdir $path/sysbenign6
-#scp -i ./debo.pem redherring@104.154.117.255:stream*.cap $path/netbenign6
-#scp -i ./debo.pem redherring@104.154.117.255:stream*.scap $path/sysbenign6
-#sleep 2
-#ssh -i ./debo.pem redherring@104.154.117.255 rm stream*
-#sleep 2
+./general.sh registerProducts.py
+mkdir $path/netbenign6
+mkdir $path/sysbenign6
+scp -i ./debo.pem redherring@104.154.117.255:stream*.cap $path/netbenign6
+scp -i ./debo.pem redherring@104.154.117.255:stream*.scap $path/sysbenign6
+sleep 2
+ssh -i ./debo.pem redherring@104.154.117.255 rm stream*
+sleep 2
 
-#./general.sh orderproduct.py
-#mkdir $path/netbenign7
-#mkdir $path/sysbenign7
-#scp -i ./debo.pem redherring@104.154.117.255:stream*.cap $path/netbenign7
-#scp -i ./debo.pem redherring@104.154.117.255:stream*.scap $path/sysbenign7
-#sleep 2
-#ssh -i ./debo.pem redherring@104.154.117.255 rm stream*
+./general.sh orderproduct.py
+mkdir $path/netbenign7
+mkdir $path/sysbenign7
+scp -i ./debo.pem redherring@104.154.117.255:stream*.cap $path/netbenign7
+scp -i ./debo.pem redherring@104.154.117.255:stream*.scap $path/sysbenign7
+sleep 2
+ssh -i ./debo.pem redherring@104.154.117.255 rm stream*
 
-#./general.sh CreateSocialPostAction.py
-#mkdir $path/netbenign8
-#scp -i ./debo.pem redherring@104.154.117.255:stream*.cap $path/netbenign8
-#mkdir $path/sysbenign8
-#scp -i ./debo.pem redherring@104.154.117.255:stream*.scap $path/sysbenign8
-#sleep 2
-#ssh -i ./debo.pem redherring@104.154.117.255 rm stream*
-#sleep 2
+./general.sh CreateSocialPostAction.py
+mkdir $path/netbenign8
+scp -i ./debo.pem redherring@104.154.117.255:stream*.cap $path/netbenign8
+mkdir $path/sysbenign8
+scp -i ./debo.pem redherring@104.154.117.255:stream*.scap $path/sysbenign8
+sleep 2
+ssh -i ./debo.pem redherring@104.154.117.255 rm stream*
+sleep 2
 
-#./general.sh registerUsers.py
-#mkdir $path/netbenign9
-#scp -i ./debo.pem redherring@104.154.117.255:stream*.cap $path/netbenign9
-#mkdir $path/sysbenign9
-#scp -i ./debo.pem redherring@104.154.117.255:stream*.scap $path/sysbenign9
-#sleep 2
-#ssh -i ./debo.pem redherring@104.154.117.255 rm stream*
-#sleep 2
+./general.sh registerUsers.py
+mkdir $path/netbenign9
+scp -i ./debo.pem redherring@104.154.117.255:stream*.cap $path/netbenign9
+mkdir $path/sysbenign9
+scp -i ./debo.pem redherring@104.154.117.255:stream*.scap $path/sysbenign9
+sleep 2
+ssh -i ./debo.pem redherring@104.154.117.255 rm stream*
+sleep 2
 
 
 
-#./general.sh browseProducts.py 
-#mkdir $path/netbenign10
-#scp -i ./debo.pem redherring@104.154.117.255:stream*.cap $path/netbenign10
-#mkdir $path/sysbenign10
-#scp -i ./debo.pem redherring@104.154.117.255:stream*.scap $path/sysbenign10
-#sleep 2
-#ssh -i ./debo.pem redherring@104.154.117.255 rm stream*
-#sleep 2
+./general.sh browseProducts.py 
+mkdir $path/netbenign10
+scp -i ./debo.pem redherring@104.154.117.255:stream*.cap $path/netbenign10
+mkdir $path/sysbenign10
+scp -i ./debo.pem redherring@104.154.117.255:stream*.scap $path/sysbenign10
+sleep 2
+ssh -i ./debo.pem redherring@104.154.117.255 rm stream*
+sleep 2
 
-#./general.sh BrowseSocialNetWork.py
-#mkdir $path/netbenign11
-#scp -i ./debo.pem redherring@104.154.117.255:stream*.cap $path/netbenign11
-#mkdir $path/sysbenign11
-#scp -i ./debo.pem redherring@104.154.117.255:stream*.scap $path/sysbenign11
-#sleep 2
-#ssh -i ./debo.pem redherring@104.154.117.255 rm stream*
-#sleep 2
-
+./general.sh BrowseSocialNetWork.py
+mkdir $path/netbenign11
+scp -i ./debo.pem redherring@104.154.117.255:stream*.cap $path/netbenign11
+mkdir $path/sysbenign11
+scp -i ./debo.pem redherring@104.154.117.255:stream*.scap $path/sysbenign11
+sleep 2
+ssh -i ./debo.pem redherring@104.154.117.255 rm stream*
+sleep 2
 #./benmessage6.sh 0 5
 #mkdir $path/netbenign12
 #scp -i ./debo.pem redherring@104.154.117.255:stream*.cap $path/netbenign12
