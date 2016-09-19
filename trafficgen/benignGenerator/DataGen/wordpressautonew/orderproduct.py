@@ -80,7 +80,7 @@ for k in range(1,2):
 	    url = "104.154.117.255"
 	    app = "wordpress"
 	    product_page = "https://" + url + "/" + app + "/product/" + productData[0].lower()
-            #product_page = "https://" + url + "/" + app + "/product/" +"icecream-vanilla"
+            #product_page = "https://" + url + "/" + app + "/product/" +"sugar-individualportions"
 	    browser.get( product_page )
 	    time.sleep(2)
             try:

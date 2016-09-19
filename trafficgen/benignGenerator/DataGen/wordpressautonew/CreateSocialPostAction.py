@@ -76,9 +76,10 @@ for i in range(1,2):
 	time.sleep(2)
 
 
-reg.logout()
 
-reg.closeBrowser()
+#reg.logout()
+
+#reg.closeBrowser()
 
 
 

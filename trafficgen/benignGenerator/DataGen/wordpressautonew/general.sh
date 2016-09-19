@@ -2,7 +2,7 @@
 # Kicks off a run of the applicationDriver. Expects the config file to be used as a parameter.
 # Also kills any other instance of java/firefox/Xvfb running
 
-for i in {0..10}
+for i in {0..200}
 do
 # cleanup previous runs
 killall firefox Xvfb
