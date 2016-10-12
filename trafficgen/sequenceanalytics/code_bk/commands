@@ -1,0 +1,14 @@
+ 2055  python extractSeries.py 1 70
+ 2056  python entropyCalc.py 
+ 2057  python reformat.py entropy
+ 2058  python entropyCalc.py 
+ 2059  python reformat.py entropy
+ 2060  python
+ 2061  python extractSeries.py 2 70
+ 2062  python entropyCalc.py
+       python featselect2.py 
+ 2063  python reformat.py entropy
+ 2064  python extractSeries.py 0 70
+ 2065  python entropyCalc.py 
+ 2066  python reformat.py entropy
+
