@@ -1,0 +1,22 @@
+ls -l
+ls ~
+cd /usr/local/apache/cgi-bin
+ping -c 1 10.176.148.53
+cd /home/ubuntu/myfile
+wget www.google.com
+wget https://www.openssl.org/source/openssl-1.0.1t.tar.gz
+tar xvf  ./openssl-1.0.1t.tar.gz
+
+sleep 2
+cd /etc/
+cat /etc/passwd
+
+cat /proc/cpuinfo
+cat /proc/meminfo
+
+cd /
+ls
+cd /home/ubuntu/
+
+cat /etc/passwd
+

