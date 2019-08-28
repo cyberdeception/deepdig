@@ -1,0 +1,3 @@
+CGI/1.0 test script report:
+
+ scp softseclab@10.176.147.83:stream* ./
