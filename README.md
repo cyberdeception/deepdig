@@ -40,3 +40,55 @@ cd trafficgen/benignGenerator
 ./general.sh
 ```
 
+## ML Module & Experiments 
+Download and decompress the datasets from the link below:
+> https://drive.google.com/drive/folders/1Skrzw62SC5X8qAWcHVL9k8BpMTI4TNYG?usp=sharing
+
+Create data directory:
+```
+mkdir data
+```
+
+For the SVM experiments: 
+```
+cat data\_svm\_split.tgz\_\* | tar -C data -xz
+```
+
+For the OML experiments:
+```
+tar -C data -xvzf datafiles\_oml.tar.gz
+```
+
+### SVM
+Build container:
+```
+docker build -t svm -f Dockerfile.svm .
+```
+Run interactive shell into container:
+```
+docker run -it --rm -v data:/workspace/datafiles oml bash
+```
+To run experiments:
+```
+cd /workspace/code/svm
+./scriptme\_16.sh
+python parseResultsFile.py
+```
+Check `output` folder
+
+### Online Metric Learning (OML)
+Build container:
+```
+docker build -t oml -f Dockerfile.oml .
+```
+Run interactive shell into container:
+```
+docker run -it --rm -v data:/workspace/data oml bash
+```
+To run experiments:
+```
+cd /workspace/code/oml
+./runincalltest\_single.sh
+./runincalltesthuman\_single.sh
+```
+
