@@ -41,6 +41,9 @@ cd trafficgen/benignGenerator
 ```
 
 ## ML Module & Experiments 
+Change dir to `ml` submodule:
+`cd ml` 
+
 Download and decompress the datasets from the link below:
 > https://drive.google.com/drive/folders/1Skrzw62SC5X8qAWcHVL9k8BpMTI4TNYG?usp=sharing
 
