@@ -1,0 +1,40 @@
+FROM ubuntu
+
+RUN apt-get update -yq && \ 
+    apt-get install software-properties-common -yqq && \
+    add-apt-repository -y ppa:openjdk-r/ppa && \
+    apt-get update && \
+    apt-get install -yqq \
+        unzip \
+        vim \
+        python-pip \ 
+        python-dev \ 
+        openjdk-8-jre && \
+    apt-get clean -yqq && \
+    rm -rf /var/lib/apt/lists/* /tmp/* /var/tmp/* /var/lib/apt/archive/*
+
+RUN pip install -U \ 
+        dpkt \
+        python-memcached \
+        scikit-learn \
+        pandas \
+        cvxopt
+
+ADD https://github.com/seperman/python-statlib/archive/master.zip /usr/src
+RUN cd /usr/src && unzip master.zip
+RUN cd /usr/src/python-statlib-master/ && python setup.py install
+
+COPY code /workspace/code
+
+WORKDIR /workspace
+
+CMD /bin/bash
+
+
+
+
+
+
+
+
+

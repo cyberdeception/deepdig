@@ -1,0 +1,4001 @@
+[Elemwise{exp,no_inplace}(<TensorType(float32, vector)>)]
+Looping 1000 times took 0.008859 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 0.018357 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 0.027222 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 0.036081 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 0.044949 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 0.053814 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 0.062677 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 0.071538 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 0.080409 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 0.089258 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 0.098113 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 0.106953 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 0.115809 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 0.124644 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 0.133511 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 0.142351 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 0.151203 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 0.160044 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 0.168897 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 0.177753 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 0.186605 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 0.195445 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 0.204295 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 0.213136 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 0.222017 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 0.230856 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 0.239706 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 0.248547 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 0.257434 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 0.266671 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 0.275541 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 0.284396 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 0.293256 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 0.302097 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 0.310949 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 0.319789 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 0.328642 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 0.337491 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 0.346341 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 0.355179 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 0.364032 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 0.372917 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 0.381783 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 0.390622 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 0.399475 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 0.408363 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 0.417217 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 0.426056 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 0.434910 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 0.443746 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 0.452601 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 0.461452 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 0.470300 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 0.479137 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 0.488036 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 0.496882 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 0.505765 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 0.514683 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 0.523548 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 0.532388 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 0.541246 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 0.550084 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 0.558934 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 0.567782 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 0.576636 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 0.585486 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 0.594338 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 0.603180 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 0.612031 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 0.620870 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 0.629732 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 0.638572 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 0.647428 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 0.656267 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 0.665167 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 0.674005 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 0.682855 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 0.691691 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 0.700554 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 0.709410 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 0.718259 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 0.727102 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 0.735951 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 0.744821 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 0.753686 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 0.762559 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 0.771415 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 0.780260 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 0.789141 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 0.798011 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 0.806911 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 0.815765 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 0.824627 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 0.833494 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 0.842367 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 0.851233 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 0.860096 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 0.868936 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 0.877828 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 0.886687 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 0.895548 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 0.904386 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 0.913244 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 0.922084 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 0.930935 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 0.939773 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 0.948626 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 0.957476 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 0.966328 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 0.975168 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 0.984020 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 0.992860 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 1.001772 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 1.010611 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 1.019533 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 1.028378 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 1.037233 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 1.046072 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 1.054925 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 1.063761 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 1.072632 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 1.081487 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 1.090339 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 1.099178 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 1.107699 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 1.115731 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 1.123754 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 1.131758 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 1.139799 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 1.147814 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 1.155831 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 1.163912 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 1.171954 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 1.179998 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 1.188030 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 1.196031 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 1.204072 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 1.212073 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 1.220112 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 1.228101 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 1.236114 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 1.244145 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 1.252255 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 1.260287 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 1.268361 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 1.276375 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 1.284533 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 1.292916 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 1.301340 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 1.309716 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 1.318100 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 1.326525 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 1.334857 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 1.342952 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 1.350971 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 1.359006 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 1.367073 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 1.375086 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 1.383121 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 1.391170 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 1.399183 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 1.407188 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 1.415242 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 1.423245 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 1.431253 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 1.439271 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 1.447290 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 1.455290 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 1.463320 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 1.471338 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 1.479356 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 1.487461 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 1.495502 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 1.503753 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 1.511847 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 1.519930 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 1.527962 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 1.536001 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 1.544043 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 1.552049 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 1.560083 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 1.568130 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 1.576162 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 1.584178 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 1.592220 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 1.600242 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 1.608286 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 1.616323 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 1.624338 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 1.632358 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 1.640388 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 1.648376 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 1.656404 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 1.664425 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 1.672439 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 1.680442 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 1.688474 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 1.696474 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 1.704488 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 1.712566 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 1.720631 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 1.728659 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 1.736691 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 1.744712 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 1.752782 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 1.760802 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 1.768876 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 1.776884 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 1.784914 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 1.792952 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 1.800974 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 1.809028 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 1.817071 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 1.825100 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 1.833116 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 1.841234 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 1.849256 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 1.857258 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 1.865286 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 1.873304 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 1.881351 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 1.889379 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 1.897396 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 1.905415 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 1.913445 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 1.921459 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 1.929474 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 1.937528 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 1.945597 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 1.953628 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 1.961665 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 1.969704 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 1.977732 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 1.985739 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 1.993833 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 2.002035 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 2.010148 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 2.018214 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 2.026260 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 2.034295 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 2.042327 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 2.050360 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 2.058400 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 2.066452 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 2.074520 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 2.082562 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 2.090604 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 2.098605 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 2.106654 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 2.114699 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 2.122725 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 2.130720 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 2.138748 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 2.146768 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 2.154796 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 2.162813 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 2.170925 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 2.178960 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 2.187006 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 2.195045 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 2.203107 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 2.211120 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 2.219181 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 2.227194 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 2.235240 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 2.243262 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 2.251307 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 2.259335 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 2.267996 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 2.276020 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 2.284053 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 2.292086 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 2.300159 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 2.308182 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 2.316221 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 2.324275 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 2.332312 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 2.340340 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 2.348368 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 2.356760 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 2.365236 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 2.373635 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 2.382036 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 2.390425 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 2.398831 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 2.407285 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 2.415697 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 2.423782 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 2.431905 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 2.440098 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 2.448321 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 2.456350 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 2.464395 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 2.472454 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 2.480461 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 2.488506 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 2.496547 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 2.504643 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 2.512692 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 2.520728 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 2.528792 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 2.536813 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 2.544850 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 2.552873 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 2.560924 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 2.568963 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 2.577043 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 2.585215 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 2.593280 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 2.601294 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 2.609310 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 2.617337 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 2.625365 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 2.633455 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 2.641511 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 2.649544 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 2.657570 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 2.665589 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 2.673622 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 2.681671 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 2.689702 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 2.697730 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 2.705743 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 2.713810 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 2.721842 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 2.729868 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 2.737907 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 2.745936 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 2.753989 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 2.761997 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 2.770074 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 2.778069 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 2.786082 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 2.794132 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 2.802148 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 2.810194 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 2.818232 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 2.826266 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 2.834287 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 2.842307 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 2.850321 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 2.858389 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 2.866526 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 2.874562 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 2.882621 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 2.890666 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 2.898702 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 2.906709 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 2.914749 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 2.922795 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 2.930810 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 2.938856 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 2.946871 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 2.954919 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 2.962952 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 2.970989 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 2.979015 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 2.987047 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 2.995093 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 3.003154 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 3.011323 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 3.019417 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 3.027432 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 3.035462 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 3.043500 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 3.051506 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 3.059526 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 3.067574 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 3.075662 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 3.083657 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 3.091764 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 3.099792 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 3.107867 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 3.115897 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 3.123937 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 3.131955 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 3.140030 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 3.148043 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 3.156076 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 3.164127 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 3.172180 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 3.180175 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 3.188230 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 3.196242 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 3.204288 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 3.212314 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 3.220387 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 3.228404 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 3.236406 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 3.244421 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 3.252452 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 3.260475 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 3.268522 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 3.276530 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 3.284575 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 3.292599 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 3.300623 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 3.308644 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 3.316753 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 3.324801 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 3.332851 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 3.340888 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 3.348938 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 3.356956 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 3.365020 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 3.373045 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 3.381100 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 3.389143 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 3.397183 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 3.405197 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 3.413271 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 3.421287 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 3.429326 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 3.437354 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 3.445398 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 3.453402 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 3.461416 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 3.469462 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 3.477491 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 3.485501 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 3.493540 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 3.501547 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 3.509743 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 3.517773 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 3.525835 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 3.533851 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 3.541882 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 3.549955 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 3.558011 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 3.566044 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 3.574080 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 3.582097 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 3.590186 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 3.598213 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 3.606250 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 3.614289 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 3.622343 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 3.630343 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 3.638399 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 3.646486 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 3.654561 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 3.662623 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 3.670695 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 3.678759 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 3.686806 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 3.694876 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 3.702921 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 3.710973 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 3.719048 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 3.727060 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 3.735123 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 3.743139 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 3.751181 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 3.759204 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 3.767264 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 3.775383 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 3.783431 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 3.791471 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 3.799515 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 3.807592 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 3.815705 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 3.823786 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 3.832365 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 3.841402 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 3.850298 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 3.859177 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 3.868039 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 3.876891 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 3.885773 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 3.894628 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 3.903502 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 3.912364 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 3.921241 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 3.930107 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 3.938964 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 3.947848 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 3.956719 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 3.965600 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 3.974473 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 3.983343 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 3.992215 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 4.001096 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 4.010101 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 4.018947 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 4.028009 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 4.036870 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 4.045766 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 4.054632 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 4.063506 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 4.072364 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 4.081244 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 4.090095 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 4.098970 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 4.107822 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 4.116692 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 4.125560 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 4.134433 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 4.143293 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 4.152185 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 4.161053 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 4.169908 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 4.178766 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 4.187638 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 4.196502 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 4.205386 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 4.214251 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 4.223119 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 4.232221 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 4.241081 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 4.249960 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 4.258831 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 4.267691 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 4.276671 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 4.285547 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 4.294421 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 4.303279 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 4.312150 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 4.321000 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 4.329866 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 4.338725 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 4.347613 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 4.356474 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 4.365356 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 4.374216 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 4.383086 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 4.391929 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 4.400809 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 4.409677 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 4.418549 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 4.427408 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 4.436278 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 4.445154 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 4.454027 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 4.462883 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 4.471744 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 4.480595 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 4.489476 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 4.498335 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 4.507249 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 4.516141 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 4.525020 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 4.533979 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 4.542835 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 4.551695 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 4.560719 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 4.569588 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 4.578462 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 4.587326 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 4.596194 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 4.605117 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 4.613988 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 4.622837 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 4.631706 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 4.640564 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 4.649455 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 4.658316 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 4.667187 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 4.676043 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 4.684914 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 4.693768 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 4.702633 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 4.711500 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 4.720378 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 4.729243 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 4.738127 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 4.746998 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 4.755869 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 4.764710 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 4.773606 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 4.782575 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 4.791447 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 4.800309 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 4.809189 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 4.818050 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 4.826923 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 4.835782 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 4.844653 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 4.853530 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 4.862411 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 4.871270 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 4.880143 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 4.889009 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 4.897883 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 4.906759 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 4.915620 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 4.924488 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 4.933365 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 4.942222 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 4.951105 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 4.959965 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 4.968834 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 4.977703 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 4.986575 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 4.995418 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 5.004295 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 5.013242 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 5.022112 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 5.031080 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 5.039950 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 5.048821 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 5.057701 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 5.066547 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 5.075411 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 5.084270 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 5.093148 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 5.102006 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 5.110883 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 5.119739 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 5.128607 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 5.137460 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 5.146358 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 5.155217 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 5.164087 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 5.172944 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 5.181827 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 5.190689 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 5.199557 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 5.208412 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 5.217280 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 5.226134 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 5.235226 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 5.244091 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 5.252983 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 5.261850 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 5.270722 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 5.279581 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 5.288545 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 5.297425 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 5.306291 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 5.315146 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 5.324020 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 5.332881 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 5.341767 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 5.350638 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 5.359508 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 5.368356 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 5.377232 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 5.386088 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 5.394962 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 5.403823 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 5.412696 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 5.421570 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 5.430440 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 5.439292 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 5.448204 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 5.457077 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 5.465959 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 5.474830 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 5.483708 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 5.492577 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 5.501468 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 5.510368 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 5.519270 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 5.528125 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 5.537072 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 5.545945 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 5.554821 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 5.563839 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 5.572711 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 5.581624 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 5.590520 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 5.599388 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 5.608254 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 5.617119 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 5.625991 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 5.634850 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 5.643720 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 5.652586 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 5.661469 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 5.670312 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 5.679178 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 5.688032 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 5.696903 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 5.705775 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 5.714648 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 5.723505 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 5.732374 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 5.741220 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 5.750099 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 5.758955 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 5.767826 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 5.776690 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 5.785574 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 5.794527 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 5.803399 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 5.812240 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 5.821119 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 5.829974 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 5.838842 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 5.847122 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 5.855125 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 5.863118 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 5.871098 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 5.879077 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 5.887072 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 5.895055 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 5.903041 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 5.911013 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 5.919003 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 5.926986 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 5.934978 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 5.942945 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 5.950963 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 5.958948 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 5.966943 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 5.974926 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 5.982907 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 5.990884 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 5.998879 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 6.006875 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 6.014940 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 6.023017 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 6.031031 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 6.039014 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 6.047020 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 6.055001 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 6.062990 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 6.070967 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 6.078965 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 6.086951 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 6.094945 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 6.102946 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 6.110937 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 6.118921 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 6.126919 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 6.134904 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 6.142887 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 6.150867 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 6.158861 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 6.166842 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 6.174824 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 6.182813 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 6.190804 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 6.198790 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 6.206783 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 6.214753 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 6.222745 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 6.230949 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 6.238948 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 6.246929 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 6.255017 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 6.262996 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 6.271002 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 6.278986 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 6.286980 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 6.294949 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 6.302953 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 6.310934 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 6.318930 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 6.326915 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 6.334909 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 6.342889 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 6.350882 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 6.358878 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 6.366872 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 6.374840 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 6.382829 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 6.390813 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 6.398807 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 6.406789 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 6.414768 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 6.422743 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 6.430736 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 6.438716 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 6.446695 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 6.454683 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 6.462670 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 6.470655 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 6.478753 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 6.486751 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 6.494768 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 6.502751 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 6.510804 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 6.518828 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 6.526813 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 6.534809 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 6.542808 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 6.550795 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 6.558815 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 6.566951 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 6.574945 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 6.582952 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 6.590951 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 6.598940 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 6.606932 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 6.614918 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 6.622922 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 6.630909 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 6.638903 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 6.646874 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 6.654863 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 6.662845 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 6.670843 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 6.678823 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 6.686802 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 6.694780 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 6.702774 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 6.710858 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 6.718852 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 6.726822 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 6.734812 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 6.742798 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 6.750792 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 6.758759 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 6.766760 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 6.774745 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 6.782755 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 6.790737 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 6.798716 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 6.806691 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 6.814696 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 6.822678 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 6.830672 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 6.838642 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 6.846646 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 6.854633 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 6.862640 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 6.870622 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 6.878599 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 6.886579 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 6.894574 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 6.902560 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 6.910555 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 6.918524 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 6.926513 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 6.934608 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 6.942604 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 6.950595 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 6.958577 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 6.966556 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 6.974550 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 6.982535 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 6.990514 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 6.998514 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 7.006515 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 7.014580 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 7.022575 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 7.030559 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 7.038568 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 7.046543 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 7.054540 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 7.062524 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 7.070504 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 7.078484 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 7.086490 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 7.094490 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 7.102513 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 7.110481 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 7.118473 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 7.126458 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 7.134480 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 7.142468 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 7.150505 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 7.158634 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 7.166647 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 7.174633 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 7.182626 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 7.190592 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 7.198583 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 7.206566 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 7.214562 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 7.222544 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 7.230740 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 7.238720 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 7.246715 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 7.254700 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 7.262693 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 7.270663 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 7.278650 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 7.286633 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 7.294629 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 7.302608 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 7.310610 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 7.318600 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 7.326598 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 7.334620 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 7.342602 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 7.350580 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 7.358575 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 7.366559 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 7.374553 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 7.382520 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 7.390622 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 7.398607 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 7.406603 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 7.414587 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 7.422567 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 7.430545 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 7.438547 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 7.446533 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 7.454524 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 7.462489 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 7.470476 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 7.478458 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 7.486457 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 7.494438 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 7.502418 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 7.510395 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 7.518461 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 7.526510 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 7.534505 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 7.542477 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 7.550468 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 7.558453 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 7.566591 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 7.574560 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 7.582565 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 7.590542 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 7.598537 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 7.606517 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 7.614603 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 7.622599 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 7.630610 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 7.638598 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 7.646609 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 7.654599 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 7.662598 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 7.670586 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 7.678602 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 7.686588 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 7.694568 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 7.702566 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 7.710564 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 7.718558 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 7.726576 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 7.734546 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 7.742547 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 7.750564 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 7.758563 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 7.766553 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 7.774546 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 7.782530 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 7.790528 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 7.798516 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 7.806519 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 7.814498 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 7.822489 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 7.830474 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 7.838468 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 7.846543 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 7.854542 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 7.862544 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 7.870554 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 7.878535 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 7.886513 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 7.894506 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 7.902495 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 7.910480 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 7.918471 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 7.926442 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 7.934432 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 7.942412 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 7.950424 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 7.958403 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 7.966385 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 7.974365 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 7.982359 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 7.990346 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 7.998338 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 8.006315 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 8.014357 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 8.022375 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 8.030371 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 8.038351 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 8.046330 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 8.054319 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 8.062318 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 8.070407 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 8.078418 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 8.086389 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 8.094380 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 8.102375 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 8.110373 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 8.118342 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 8.126343 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 8.134330 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 8.142324 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 8.150305 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 8.158287 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 8.166270 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 8.174259 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 8.182249 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 8.190243 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 8.198211 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 8.206212 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 8.214194 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 8.222188 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 8.230377 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 8.238368 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 8.246345 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 8.254341 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 8.262324 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 8.270315 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 8.278285 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 8.286276 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 8.294258 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 8.302366 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 8.310350 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 8.318330 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu
+Looping 1000 times took 8.326310 seconds
+Result is [ 1.23178029  1.61879337  1.52278066 ...,  2.20771813  2.29967761
+  1.62323284]
+Used the cpu

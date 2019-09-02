@@ -1,0 +1,54 @@
+    1  cd workspace/
+    2  ls
+    3  pip install dpkt
+    4  pip install python-memcached
+    5  pip install -U scikit-learn
+    6  cd HP_teUnpatched/
+    7  ./scriptme_16.sh
+    8  apt install vim
+    9  ./scriptme_16.sh
+   10  ls ..
+   11  cd ..
+   12  ls
+   13  mv * acsacpaper/
+   14  mkdir acsacpaper
+   15  mv * acsacpaper/
+   16  ls
+   17  cd acsacpaper/
+   18  ls
+   19  cd HP_teUnpatched/
+   20  ./scriptme_16.sh
+   21  vi  /workspace/acsacpaper/HP_teUnpatched/Utils.py
+   22  ./scriptme_16.sh
+   23  vi ./countermeasures/WrightStyleMorphing.py
+   24  ./scriptme_16.sh
+   25  vi ./countermeasures/WrightStyleMorphing.py
+   26  pip install cvxopt
+   27  ./scriptme_16.sh
+   28   pip install glove-py
+   29  ./scriptme_16.sh
+   30  vi ./classifiers/LiberatoreClassifier.py
+   31  ./scriptme_16.sh
+   32  vi ./classifiers/PanchenkoClassifier.py
+   33  ./scriptme_16.sh
+   34  vi ./classifiers/PanchenkoClassifier.py
+   35  pip install statlib
+   36  vi ./classifiers/PanchenkoClassifier.py
+   37  ./scriptme_16.sh
+   38  grep rom statlib import stats
+   39  grep "from statlib import stats" ./
+   40  grep -r "from statlib import stats" ./
+   41  cd ..
+   42  wget https://github.com/seperman/python-statlib/archive/master.zip
+   43  unzip master.zip 
+   44  apt-get install unzip
+   45  unzip master.zip 
+   46  cd master.zip 
+   47  ls
+   48  cd python-statlib-master/
+   49  python setup.py install
+   50  cd ..
+   51  cd HP_teUnpatched/
+   52  ./scriptme_16.sh
+   53  history
+   54  history > file

@@ -1,0 +1,170 @@
+#__author__ = 'khaled'
+import os
+
+class Utils:
+    @staticmethod
+    def readFile(fileName):
+        fileLines = [line.strip() for line in open(fileName)]
+        fileList = []
+        for fileLine in fileLines:
+            fileList.append(fileLine)
+
+        return fileList
+
+    # order instances by class label
+    @staticmethod
+    def readFile2(fileName):
+        fileLines = [line.strip() for line in open(fileName)]
+        fileList = []
+        instancesList = []
+
+        for fileLine in fileLines:
+            if fileLine.startswith("@"):
+                fileList.append(fileLine)
+            else:
+                lineList = fileLine.split(",")
+                instancesList.append(lineList) # list of lists
+
+        sortedInstancesList = sorted(instancesList, key=lambda x: x[lineList.__len__() - 1]) # sort by webpage label
+
+        for instance in sortedInstancesList:
+            fileList.append(",".join(instance))
+
+        return fileList
+
+
+    # Combine training and testing files and order instances by class label
+    @staticmethod
+    def readFile2(trainFileName, testFileName):
+        trainFileLines = [line.strip() for line in open(trainFileName)]
+        testFileLines = [line.strip() for line in open(testFileName)]
+        fileList = []
+        instancesList = []
+
+        for fileLine in trainFileLines:
+            if fileLine.startswith("@"):
+                fileList.append(fileLine)
+            else:
+                lineList = fileLine.split(",")
+                instancesList.append(lineList) # list of lists
+
+        for fileLine in testFileLines:
+            # Take instances from the testing file
+            if not (fileLine.startswith("@") or fileLine.startswith("Direction")):
+                lineList = fileLine.split(",")
+                instancesList.append(lineList) # list of lists
+
+        sortedInstancesList = sorted(instancesList, key=lambda x: x[lineList.__len__() - 1]) # sort by webpage label
+
+        for instance in sortedInstancesList:
+            fileList.append(",".join(instance))
+
+        return fileList
+
+
+    # Combine training and testing files and order instances by class label
+    # Getting instancesPerClass only from training file
+    @staticmethod
+    def readFile3(trainFileName, testFileName, instancesPerClass):
+        trainFileLines = [line.strip() for line in open(trainFileName)]
+        testFileLines = [line.strip() for line in open(testFileName)]
+        fileList = []
+        instancesList = []
+
+        fileCtr = 0
+
+        # get curr website and curr entity
+        for line in trainFileLines:
+            if not line[0] == '@':
+                lineArray = line.split(",")
+                currentWebsite = lineArray[-1]
+                currentEntity = lineArray[1]
+                break
+
+        for line in trainFileLines:
+#           if line[0] == '@':
+#               if line.lower().startswith("@attribute class"):
+#                    classes = getAllClasses(line)
+#                    #currentWebsite = classes[0]
+#            else:
+            if not (line[0] == '@'):
+                #print line
+                lineArray = line.split(",")
+                website = lineArray[-1]
+                entity = lineArray[1]
+                if entity == currentEntity:
+                    if int(lineArray[0]) == 0:
+                        lengthsList.append(lineArray[2]) # uplink
+                    else:
+                        lengthsList.append("-"+lineArray[2]) # downlink
+                else:
+                    #filename = str(classes.index(currentWebsite)) + "-" + str(fileCtr) + currentWebsite + " " + currentEntity + ".txt"
+                    #f = open(os.path.join(folderName, filename), 'w')
+                    #f.write("\n".join(lengthsList ))
+                    #f.close()
+                    fileCtr = fileCtr + 1
+
+                    lengthsList = []
+                    if int(lineArray[0]) == 0:
+                        lengthsList.append(lineArray[2]) # uplink
+                    else:
+                        lengthsList.append("-"+lineArray[2]) # downlink
+
+                    currentEntity = entity
+                    if website != currentWebsite:
+                        print fileCtr
+                        #if fileCtr == 7:
+                            #print currentWebsite + " " + str(classes.index(currentWebsite))
+                        fileCtr = 0
+                        currentWebsite = website
+
+
+
+        for fileLine in trainFileLines:
+            if fileLine.startswith("@"):
+                fileList.append(fileLine)
+            else:
+                lineList = fileLine.split(",")
+                instancesList.append(lineList) # list of lists
+
+        for fileLine in testFileLines:
+            # Take instances from the testing file
+            if not (fileLine.startswith("@") or fileLine.startswith("Direction")):
+                lineList = fileLine.split(",")
+                instancesList.append(lineList) # list of lists
+
+        sortedInstancesList = sorted(instancesList, key=lambda x: x[lineList.__len__() - 1]) # sort by webpage label
+
+        for instance in sortedInstancesList:
+            fileList.append(",".join(instance))
+
+        return fileList
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

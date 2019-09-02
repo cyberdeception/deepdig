@@ -1,0 +1,67 @@
+#clustering
+#train on benign only (so -w 0, no train on attack)
+# -S clustering method
+
+#for tr in 10 20 30 40 50 60 70 80 90 100
+#do
+#python mainBiDirectionLatestEnsembleCumulativeTrInstNewDataClustering.py -d 64 -C 123 -c 0 -k 24 -N 25 -t $tr -T 100 -n 1 -D 1 -E 1 -F 1 -G 1 -H 1 -I 1 -A 1 -V 0 -b 600 -u 200 -i 12 -w 0 -W 12 -Q 12 -S 1
+#done
+
+
+#for tr in 10 20 30 40 50 60 70 80 90 100
+#do
+#python mainBiDirectionLatestEnsembleCumulativeTrInstNewDataClustering.py -d 65 -C 143 -c 0 -k 24 -N 25 -t $tr -T 100 -n 1 -D 1 -E 1 -F 1 -G 1 -H 1 -I 1 -A 1 -V 0 -b 600 -u 200 -i 12 -w 0 -W 12 -Q 12 -S 1
+#done
+
+
+
+
+#for tr in 10 20 30 40 50 60 70 80 90 100
+#do
+#python mainBiDirectionLatestEnsembleCumulativeTrInstNewDataClustering.py -d 64 -C 123 -c 0 -k 24 -N 25 -t $tr -T 100 -n 1 -D 1 -E 1 -F 1 -G 1 -H 1 -I 1 -A 1 -V 0 -b 600 -u 200 -i 12 -w 0 -W 12 -Q 12 -S 2
+#done
+
+
+#for tr in 10 20 30 40 50 60 70 80 90 100
+#do
+#python mainBiDirectionLatestEnsembleCumulativeTrInstNewDataClustering.py -d 65 -C 143 -c 0 -k 24 -N 25 -t $tr -T 100 -n 1 -D 1 -E 1 -F 1 -G 1 -H 1 -I 1 -A 1 -V 0 -b 600 -u 200 -i 12 -w 0 -W 12 -Q 12 -S 2
+#done
+
+
+
+#for tr in 10 20 30 40 50 60 70 80 90 100
+#do
+#python mainBiDirectionLatestEnsembleCumulativeTrInstNewDataClustering.py -d 64 -C 123 -c 0 -k 24 -N 25 -t $tr -T 100 -n 1 -D 1 -E 1 -F 1 -G 1 -H 1 -I 1 -A 1 -V 0 -b 600 -u 200 -i 12 -w 0 -W 12 -Q 12 -S 3
+#done
+
+
+#for tr in 10 20 30 40 50 60 70 80 90 100
+#do
+#python mainBiDirectionLatestEnsembleCumulativeTrInstNewDataClustering.py -d 65 -C 143 -c 0 -k 24 -N 25 -t $tr -T 100 -n 1 -D 1 -E 1 -F 1 -G 1 -H 1 -I 1 -A 1 -V 0 -b 600 -u 200 -i 12 -w 0 -W 12 -Q 12 -S 3
+#done
+
+
+
+
+for tr in 10 20 30 40 50 60 70 80 90 100
+do
+python mainBiDirectionLatestEnsembleCumulativeTrInstNewDataClustering.py -d 64 -C 123 -c 0 -k 24 -N 25 -t $tr -T 100 -n 1 -D 1 -E 1 -F 1 -G 1 -H 1 -I 1 -A 1 -V 0 -b 600 -u 200 -i 12 -w 0 -W 12 -Q 12 -S 4
+done
+
+
+for tr in 10 20 30 40 50 60 70 80 90 100
+do
+python mainBiDirectionLatestEnsembleCumulativeTrInstNewDataClustering.py -d 65 -C 143 -c 0 -k 24 -N 25 -t $tr -T 100 -n 1 -D 1 -E 1 -F 1 -G 1 -H 1 -I 1 -A 1 -V 0 -b 600 -u 200 -i 12 -w 0 -W 12 -Q 12 -S 4
+done
+
+
+for tr in 10 20 30 40 50 60 70 80 90 100
+do
+python mainBiDirectionLatestEnsembleCumulativeTrInstNewDataClustering.py -d 64 -C 123 -c 0 -k 24 -N 25 -t $tr -T 100 -n 1 -D 1 -E 1 -F 1 -G 1 -H 1 -I 1 -A 1 -V 0 -b 600 -u 200 -i 12 -w 0 -W 12 -Q 12 -S 5
+done
+
+
+for tr in 10 20 30 40 50 60 70 80 90 100
+do
+python mainBiDirectionLatestEnsembleCumulativeTrInstNewDataClustering.py -d 65 -C 143 -c 0 -k 24 -N 25 -t $tr -T 100 -n 1 -D 1 -E 1 -F 1 -G 1 -H 1 -I 1 -A 1 -V 0 -b 600 -u 200 -i 12 -w 0 -W 12 -Q 12 -S 5
+done

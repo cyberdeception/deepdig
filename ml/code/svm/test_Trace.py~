@@ -1,0 +1,79 @@
+# This is a Python framework to compliment "Peek-a-Boo, I Still See You: Why Efficient Traffic Analysis Countermeasures Fail".
+# Copyright (C) 2012  Kevin P. Dyer (kpdyer.com)
+# See LICENSE for more details.
+
+import os
+import unittest
+import pcapparser
+from Trace import Trace
+from Packet import Packet
+import config
+from Datastore import Datastore
+
+
+class  PcapParserTestCase(unittest.TestCase):
+    def test_readfile(self):
+        '''
+        # By Dyer
+        actualTrace = pcapparser.readfile( month=3, day=14, hour=22, webpageId=8 )
+
+        expectedTrace = Trace(8)
+        expectedTrace.addPacket( Packet( Packet.UP  , 0  , 148 ) )
+        expectedTrace.addPacket( Packet( Packet.DOWN, 0  , 100 ) )
+        expectedTrace.addPacket( Packet( Packet.UP  , 0  , 52  ) )
+        expectedTrace.addPacket( Packet( Packet.UP  , 3  , 500 ) )
+        expectedTrace.addPacket( Packet( Packet.DOWN, 18 , 244 ) )
+        expectedTrace.addPacket( Packet( Packet.UP  , 35 , 436 ) )
+        expectedTrace.addPacket( Packet( Packet.DOWN, 75 , 52  ) )
+        expectedTrace.addPacket( Packet( Packet.DOWN, 118, 292 ) )
+        expectedTrace.addPacket( Packet( Packet.UP  , 158, 52  ) )
+        '''
+
+        # By Khaled
+        config.PCAP_ROOT = os.path.join(config.BASE_DIR   ,'honeypatckBenattackTest/net')
+        config.DATA_SOURCE = 64 # HoneyPatch pcap dataset
+        config.NUM_BENIGN_CLASSES = 12
+
+        for traceId in range(12,30):
+            #traceId = 5
+            traceStart = 0
+            traceEnd = 3
+
+            # training
+            print 'training'
+            webpage = Datastore.getWebpagesHoneyPatch([traceId], traceStart, traceEnd)
+            webpageTest = webpage[0]
+            webpageList = [webpageTest]
+
+            postCountermeasureOverhead = 0
+
+            for w in webpageList:
+                for trace in w.getTraces():
+                    traceWithCountermeasure = trace
+
+                    postCountermeasureOverhead += traceWithCountermeasure.getBandwidth()
+
+            print 'Bandwidth = ' + str(postCountermeasureOverhead)
+
+
+
+            # testing
+            print 'testing'
+            webpage = Datastore.getWebpagesHoneyPatchSomePackets([traceId], traceStart, traceEnd)
+            webpageTest = webpage[0]
+            webpageList = [webpageTest]
+
+            postCountermeasureOverhead = 0
+
+            for w in webpageList:
+                for trace in w.getTraces():
+                    traceWithCountermeasure = trace
+
+                    postCountermeasureOverhead += traceWithCountermeasure.getBandwidth()
+
+            print 'Bandwidth = ' + str(postCountermeasureOverhead)
+
+            print '------------'
+
+if __name__ == '__main__':
+    unittest.main()

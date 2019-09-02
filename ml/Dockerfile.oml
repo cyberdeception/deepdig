@@ -1,0 +1,14 @@
+FROM pytorch/pytorch
+
+RUN pip install -U \
+            pandas \
+            progressbar2 \
+            scikit-learn \
+            tensorboardX
+
+COPY code/ /workspace/code
+
+WORKDIR /workspace
+
+CMD /bin/bash
+
