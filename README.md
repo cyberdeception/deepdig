@@ -1,7 +1,7 @@
 # DeepDig
 A framework for deception-enhanced IDS trainging and evaluation.
 
-## Network Traffice Generation
+## Network Traffic Generation
 The platform can be used to generate _attack_ and _benign_ traffic and evaluation data.
 
 Supported attack types are described below. Additional attacks can be customized in the framework.
