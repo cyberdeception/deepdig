@@ -22,6 +22,7 @@ Supported attack types are described below. Additional attacks can be customized
 
 ### Attack generation
 > Note: the IP address of the target servers can be modified in each attack script 
+
 > Note: the IP addresses will have to point to a server with vulnerabilities listed above which we have not provided.
 To execute attack workload:
 ```
