@@ -21,12 +21,14 @@ Supported attack types are described below. Additional attacks can be customized
 | 17–22 | CVE-2017-5941 | System hijack (6 variants)   | Node.js  |
 
 ### Attack generation
+> Note: the IP address of the target servers can be modified in each attack script 
+> Note: the IP addresses will have to point to a server with vulnerabilities listed above which we have not provided.
 To execute attack workload:
 ```
 cd trafficgen/attackgenerator
 ./run.sh
 ```
-> Note: the IP address of the target servers can be modified in each attack script 
+
 
 ### Benign traffic generation
 > Pre-requisite: the benign traffic generators need a wordpress deployment. It also requires the Buddypress and Woocommerce plugins for creating application profiles.
@@ -52,32 +54,11 @@ Create data directory:
 mkdir data
 ```
 
-For the SVM experiments: 
-```
-cat data\_svm\_split.tgz\_\* | tar -C data -xz
-```
 
 For the OML experiments:
 ```
 tar -C data -xvzf datafiles\_oml.tar.gz
-```
 
-### SVM
-Build container:
-```
-docker build -t svm -f Dockerfile.svm .
-```
-Run interactive shell into container:
-```
-docker run -it --rm -v data:/workspace/datafiles oml bash
-```
-To run experiments:
-```
-cd /workspace/code/svm
-./scriptme\_16.sh
-python parseResultsFile.py
-```
-Check `output` folder
 
 ### Online Metric Learning (OML)
 Build container:
@@ -102,4 +83,30 @@ cat outputh | grep FPR
 cat outputh | grep TPR
 cat outputh | grep F2
 ```
+
+
+```
+
+For the SVM experiments: 
+```
+cat data\_svm\_split.tgz\_* | tar -C data -xz
+```
+
+
+### SVM
+Build container:
+```
+docker build -t svm -f Dockerfile.svm .
+```
+Run interactive shell into container:
+```
+docker run -it --rm -v data:/workspace/datafiles oml bash
+```
+To run experiments:
+```
+cd /workspace/code/svm
+./scriptme\_16.sh
+python parseResultsFile.py
+```
+Check `output` folder
 
