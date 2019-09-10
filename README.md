@@ -74,16 +74,27 @@ docker run -it --rm -v data:/workspace/data oml bash
 ```
 To run experiments:
 ```
+
 cd /workspace/code/oml
+
 ./runincalltest\_single.sh > output
+
 cat output | grep Acc
+
 cat output | grep FPR
+
 cat output | grep TPR
+
 cat output | grep F2
+
 ./runincalltesthuman\_single.sh > outputh
+
 cat outputh | grep Acc
+
 cat outputh | grep FPR
+
 cat outputh | grep TPR
+
 cat outputh | grep F2
 ```
 
