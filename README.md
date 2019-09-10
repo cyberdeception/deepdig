@@ -31,7 +31,10 @@ cd trafficgen/attackgenerator
 
 
 ### Benign traffic generation
-> Pre-requisite: the benign traffic generators need a wordpress deployment. It also requires the Buddypress and Woocommerce plugins for creating application profiles.
+> Pre-requisite: the benign traffic generators need a wordpress deployment. It also requires the Buddypress and Woocommerce plugins for creating application profiles. 
+
+> Please install firefox web browser if it is not available on your machine.
+
 Install selenium for Python: 
 ```
 pip install selenium 
