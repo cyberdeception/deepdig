@@ -57,13 +57,11 @@ Create data directory:
 mkdir data
 ```
 
-
-For the OML experiments:
+### Online Metric Learning (OML)
+Untar data files:
 ```
 tar -C data -xvzf datafiles\_oml.tar.gz
-
-
-### Online Metric Learning (OML)
+```
 Build container:
 ```
 docker build -t oml -f Dockerfile.oml .
@@ -74,40 +72,33 @@ docker run -it --rm -v data:/workspace/data oml bash
 ```
 To run experiments:
 ```
-```
 cd /workspace/code/oml
-```
 ./runincalltest\_single.sh > output
 ```
+To inspect output:
+```
 cat output | grep Acc
-```
 cat output | grep FPR
-```
 cat output | grep TPR
-```
 cat output | grep F2
+```
+To run experiment with data collected from human subjects:
 ```
 ./runincalltesthuman\_single.sh > outputh
 ```
+To inspect output:
+```
 cat outputh | grep Acc
-```
 cat outputh | grep FPR
-```
 cat outputh | grep TPR
-```
 cat outputh | grep F2
 ```
 
-
-```
-
-For the SVM experiments: 
+### SVM
+Untar data files:
 ```
 cat data\_svm\_split.tgz\_* | tar -C data -xz
 ```
-
-
-### SVM
 Build container:
 ```
 docker build -t svm -f Dockerfile.svm .
@@ -123,4 +114,3 @@ cd /workspace/code/svm
 python parseResultsFile.py
 ```
 Check `output` folder
-
