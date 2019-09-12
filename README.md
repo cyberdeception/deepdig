@@ -67,10 +67,25 @@ tar -C data -xvzf datafiles\_oml.tar.gz
 Build container:
 ```
 docker build -t oml -f Dockerfile.oml .
+
+
+
+
 ```
 Run interactive shell into container:
 ```
-docker run -it --rm -v data:/workspace/data oml bash
+docker run -it --rm -v data:/workspace/datafiles_oml oml bash
+```
+docker ps
+``` 
+
+get the id of the container
+
+```
+copy the data to the container
+```
+sudo docker cp data/datafiles_oml/ [yourcontainerid]:/workspace
+
 ```
 To run experiments:
 ```
