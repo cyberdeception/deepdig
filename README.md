@@ -82,12 +82,13 @@ docker ps
 get the id of the container
 
 ```
-copy the data to the container
+copy the data to the container by running this command on the host machine.
 ```
 sudo docker cp data/datafiles_oml/ [yourcontainerid]:/workspace
 
 ```
 To run experiments:
+Inside the container prompt
 ```
 ```
 cd /workspace/code/oml
