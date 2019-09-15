@@ -41,7 +41,7 @@ pip install selenium
 ```
 Run traffic generator: 
 ```
-cd trafficgen/benignGenerator
+cd trafficgen/benignGenerator/DataGen/wordpressautonew
 ./general.sh
 ```
 
