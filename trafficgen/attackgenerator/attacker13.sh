@@ -1,5 +1,6 @@
 #!/bin/bash
-theserver=18.222.164.205
+theserver=[your_vulnerble_serverip]
+theclient=[]
 
 for i in $(eval echo {$1..$2})
 do

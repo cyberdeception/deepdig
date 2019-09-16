@@ -1,7 +1,7 @@
 #!/bin/bash
 
-theserver=18.222.164.205
-theclient=18.222.147.46
+theserver=[your_vulnerble_serverip]
+theclient=[]
 for i in $(eval echo {$1..$2})
 do
 ssh -i ./server.pem softseclab@$theserver  sudo sysdig_cap -w stream-$i.scap -z -s 4096 container.name=target and proc.name!=criu and proc.name!=init and proc.name!=systemd-udevd and proc.name!=upstart-udev-br and proc.name!=upstart-socket- and proc.name!=upstart-file-br and proc.name!=sh and proc.name!=iptables and proc.name!=cat and proc.name!=tcpdump &
