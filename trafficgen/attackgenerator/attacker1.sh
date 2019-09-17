@@ -1,6 +1,6 @@
 #!/bin/bash
 
-theserver=[your_vulnerble_serverip]
+theserver=localhost
 
 for i in $(eval echo {$1..$2})
 do
@@ -10,8 +10,8 @@ ssh -i ./server.pem softseclab@$theserver  sudo sysdig_cap -w stream-$i.scap -z 
 ssh -i ./server.pem softseclab@$theserver sudo nohup tcpdump_cap -i eth0 -s0 -w stream-$i.cap port not 22 and port not 3490 and port not 3492 and port not 3790 and port not 80 >pdump.out &
 
 sleep 2 
-python heartbleed2.py $theserver
-python heartbleed2.py $theserver
+python heartbleed2.py $theserver -p 8443
+python heartbleed2.py $theserver -p 8443
 
 sleep 2
 
