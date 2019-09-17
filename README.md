@@ -25,6 +25,10 @@ Supported attack types are described below. Additional attacks can be customized
 
 > Note: the IP addresses will have to point to a server with vulnerabilities listed above which has is not provided to execute attack workload:
 ```
+Sample docker images with the vulnerabilities mentioned above can be found at https://hub.docker.com/r/hmlio/vaas-cve-2014-0160/ and https://github.com/Medicean/VulApps/tree/master/n/nodejs/1
+```
+
+```
 cd trafficgen/attackgenerator
 ./run.sh
 ```
